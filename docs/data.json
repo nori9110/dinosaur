@@ -1,0 +1,304 @@
+{
+  "dinosaurs": [
+    {
+      "rank": 50,
+      "name": "コンプソグナトゥス",
+      "image_url": "https://kyouryu.info/img/dinosaur/compsognathus.jpg",
+      "image_filename": "50_コンプソグナトゥス.jpg"
+    },
+    {
+      "rank": 49,
+      "name": "アケロウサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/achelousaurus.jpg",
+      "image_filename": "49_アケロウサウルス.jpg"
+    },
+    {
+      "rank": 48,
+      "name": "ステノプテリギウス",
+      "image_url": "https://kyouryu.info/img/dinosaur/stenopterygius.jpg",
+      "image_filename": "48_ステノプテリギウス.jpg"
+    },
+    {
+      "rank": 47,
+      "name": "アルバートサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/albertosaurus.jpg",
+      "image_filename": "47_アルバートサウルス.jpg"
+    },
+    {
+      "rank": 46,
+      "name": "ドリコリンコプス",
+      "image_url": "https://kyouryu.info/img/dinosaur/dolichorhynchops.jpg",
+      "image_filename": "46_ドリコリンコプス.jpg"
+    },
+    {
+      "rank": 45,
+      "name": "ミクロラプトル",
+      "image_url": "https://kyouryu.info/img/dinosaur/microraptor.jpg",
+      "image_filename": "45_ミクロラプトル.jpg"
+    },
+    {
+      "rank": 44,
+      "name": "プラテオサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/plateosaurus.jpg",
+      "image_filename": "44_プラテオサウルス.jpg"
+    },
+    {
+      "rank": 43,
+      "name": "メガロサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/megalosaurus.jpg",
+      "image_filename": "43_メガロサウルス.jpg"
+    },
+    {
+      "rank": 42,
+      "name": "プエルタサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/leedsichthys.jpg",
+      "image_filename": "42_プエルタサウルス.jpg"
+    },
+    {
+      "rank": 41,
+      "name": "リードシクティス",
+      "image_url": "https://kyouryu.info/img/dinosaur/leedsichthys.jpg",
+      "image_filename": "41_リードシクティス.jpg"
+    },
+    {
+      "rank": 40,
+      "name": "エウディモルフォドン",
+      "image_url": "https://kyouryu.info/img/dinosaur/eudimorphodon.jpg",
+      "image_filename": "40_エウディモルフォドン.jpg"
+    },
+    {
+      "rank": 39,
+      "name": "アンハングエラ",
+      "image_url": "https://kyouryu.info/img/dinosaur/anhanguera.jpg",
+      "image_filename": "39_アンハングエラ.jpg"
+    },
+    {
+      "rank": 38,
+      "name": "ランフォリンクス",
+      "image_url": "https://kyouryu.info/img/dinosaur/rhamphorhynchus.jpg",
+      "image_filename": "38_ランフォリンクス.jpg"
+    },
+    {
+      "rank": 37,
+      "name": "パラサウロロフス",
+      "image_url": "https://kyouryu.info/img/dinosaur/parasaurolophus.jpg",
+      "image_filename": "37_パラサウロロフス.jpg"
+    },
+    {
+      "rank": 36,
+      "name": "ショニサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/shonisaurus.jpg",
+      "image_filename": "36_ショニサウルス.jpg"
+    },
+    {
+      "rank": 35,
+      "name": "ディモルフォドン",
+      "image_url": "https://kyouryu.info/img/dinosaur/dimorphodon.jpg",
+      "image_filename": "35_ディモルフォドン.jpg"
+    },
+    {
+      "rank": 34,
+      "name": "アパトサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/apatosaurus.jpg",
+      "image_filename": "34_アパトサウルス.jpg"
+    },
+    {
+      "rank": 33,
+      "name": "プテロダクティルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/pterodactylus.jpg",
+      "image_filename": "33_プテロダクティルス.jpg"
+    },
+    {
+      "rank": 32,
+      "name": "アグスティニア",
+      "image_url": "https://kyouryu.info/img/dinosaur/agustinia_2.jpg",
+      "image_filename": "32_アグスティニア.jpg"
+    },
+    {
+      "rank": 31,
+      "name": "キンボスポンディルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/cymbospondylus.jpg",
+      "image_filename": "31_キンボスポンディルス.jpg"
+    },
+    {
+      "rank": 30,
+      "name": "クロノサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/kronosaurus_2.jpg",
+      "image_filename": "30_クロノサウルス.jpg"
+    },
+    {
+      "rank": 29,
+      "name": "カルノタウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/carnotaurus.jpg",
+      "image_filename": "29_カルノタウルス.jpg"
+    },
+    {
+      "rank": 28,
+      "name": "アクロカントサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/acrocanthosaurus_2.jpg",
+      "image_filename": "28_アクロカントサウルス.jpg"
+    },
+    {
+      "rank": 27,
+      "name": "エラスモサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/elasmosaurus.jpg",
+      "image_filename": "27_エラスモサウルス.jpg"
+    },
+    {
+      "rank": 26,
+      "name": "ディプロドクス",
+      "image_url": "https://kyouryu.info/img/dinosaur/diplodocus.jpg",
+      "image_filename": "26_ディプロドクス.jpg"
+    },
+    {
+      "rank": 25,
+      "name": "デイノニクス",
+      "image_url": "https://kyouryu.info/img/dinosaur/deinonychus.jpg",
+      "image_filename": "25_デイノニクス.jpg"
+    },
+    {
+      "rank": 24,
+      "name": "ユタラプトル",
+      "image_url": "https://kyouryu.info/img/dinosaur/utahraptor.jpg",
+      "image_filename": "24_ユタラプトル.jpg"
+    },
+    {
+      "rank": 23,
+      "name": "ティロサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/tylosaurus.jpg",
+      "image_filename": "23_ティロサウルス.jpg"
+    },
+    {
+      "rank": 22,
+      "name": "イクチオサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/ichthyosaurus.jpg",
+      "image_filename": "22_イクチオサウルス.jpg"
+    },
+    {
+      "rank": 21,
+      "name": "モササウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/mosasaurs.jpg",
+      "image_filename": "21_モササウルス.jpg"
+    },
+    {
+      "rank": 20,
+      "name": "パキケファロサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/pachycephalosaurus.jpg",
+      "image_filename": "20_パキケファロサウルス.jpg"
+    },
+    {
+      "rank": 19,
+      "name": "アンキロサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/ankylosaurus.jpg",
+      "image_filename": "19_アンキロサウルス.jpg"
+    },
+    {
+      "rank": 18,
+      "name": "ダコサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/dakosaurus_2.jpg",
+      "image_filename": "18_ダコサウルス.jpg"
+    },
+    {
+      "rank": 17,
+      "name": "ノトサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/giganotosaurus.jpg",
+      "image_filename": "17_ノトサウルス.jpg"
+    },
+    {
+      "rank": 16,
+      "name": "タルボサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/tarbosaurus.jpg",
+      "image_filename": "16_タルボサウルス.jpg"
+    },
+    {
+      "rank": 15,
+      "name": "プレシオサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/plesiosaurus.jpg",
+      "image_filename": "15_プレシオサウルス.jpg"
+    },
+    {
+      "rank": 14,
+      "name": "ケツァルコアトルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/quetzalcoatlus.jpg",
+      "image_filename": "14_ケツァルコアトルス.jpg"
+    },
+    {
+      "rank": 13,
+      "name": "ステゴサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/stegosaurus.jpg",
+      "image_filename": "13_ステゴサウルス.jpg"
+    },
+    {
+      "rank": 12,
+      "name": "アロサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/allosaurus.jpg",
+      "image_filename": "12_アロサウルス.jpg"
+    },
+    {
+      "rank": 11,
+      "name": "イグアノドン",
+      "image_url": "https://kyouryu.info/img/dinosaur/iguanodon.jpg",
+      "image_filename": "11_イグアノドン.jpg"
+    },
+    {
+      "rank": 10,
+      "name": "ブラキオサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/brachiosaurus.jpg",
+      "image_filename": "10_ブラキオサウルス.jpg"
+    },
+    {
+      "rank": 9,
+      "name": "リオプレウロドン",
+      "image_url": "https://kyouryu.info/img/dinosaur/liopleurodon.jpg",
+      "image_filename": "09_リオプレウロドン.jpg"
+    },
+    {
+      "rank": 8,
+      "name": "ギガノトサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/giganotosaurus.jpg",
+      "image_filename": "08_ギガノトサウルス.jpg"
+    },
+    {
+      "rank": 7,
+      "name": "アルゼンチノサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/argentinosaurus.jpg",
+      "image_filename": "07_アルゼンチノサウルス.jpg"
+    },
+    {
+      "rank": 6,
+      "name": "アウカサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/aucasaurus.jpg",
+      "image_filename": "06_アウカサウルス.jpg"
+    },
+    {
+      "rank": 5,
+      "name": "ヴェロキラプトル",
+      "image_url": "https://kyouryu.info/img/dinosaur/velociraptor_2.jpg",
+      "image_filename": "05_ヴェロキラプトル.jpg"
+    },
+    {
+      "rank": 4,
+      "name": "プテラノドン",
+      "image_url": "https://kyouryu.info/img/dinosaur/pteranodon.jpg",
+      "image_filename": "04_プテラノドン.jpg"
+    },
+    {
+      "rank": 3,
+      "name": "トリケラトプス",
+      "image_url": "https://kyouryu.info/img/dinosaur/triceratops.jpg",
+      "image_filename": "03_トリケラトプス.jpg"
+    },
+    {
+      "rank": 2,
+      "name": "スピノサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/spinosaurus_3.jpg",
+      "image_filename": "02_スピノサウルス.jpg"
+    },
+    {
+      "rank": 1,
+      "name": "ティラノサウルス",
+      "image_url": "https://kyouryu.info/img/dinosaur/tyrannosaurus.jpg",
+      "image_filename": "01_ティラノサウルス.jpg"
+    }
+  ]
+}
