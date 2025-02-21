@@ -3,7 +3,7 @@ import type { StackProps, SimpleGridProps } from '@chakra-ui/react'
 import { GetStaticProps } from 'next'
 import Head from 'next/head'
 import { useState, useEffect } from 'react'
-import { DinosaurData, QuizState, QuizQuestion } from '../types'
+import { Dinosaur, QuizState, QuizQuestion } from '../types'
 import { generateQuizQuestions, formatTime } from '../utils/quiz'
 import dinosaurData from '../../docs/data.json'
 
@@ -13,7 +13,7 @@ const buttonHover = {
 }
 
 interface HomeProps {
-  dinosaurs: DinosaurData[]
+  dinosaurs: Dinosaur[]
 }
 
 export const getStaticProps: GetStaticProps<HomeProps> = async () => {
@@ -41,7 +41,9 @@ export default function Home({ dinosaurs }: HomeProps) {
 
     if (quizState.startTime && !quizState.isComplete) {
       intervalId = setInterval(() => {
-        const elapsed = Date.now() - quizState.startTime;
+        const startTime = quizState.startTime;
+        if (startTime === null) return;
+        const elapsed = Date.now() - startTime;
         const minutes = Math.floor(elapsed / 60000);
         const seconds = Math.floor((elapsed % 60000) / 1000);
         setElapsedTime(`${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`);
@@ -68,7 +70,7 @@ export default function Home({ dinosaurs }: HomeProps) {
     setElapsedTime("00:00")
   }
 
-  const handleAnswer = (selectedDinosaur: DinosaurData) => {
+  const handleAnswer = (selectedDinosaur: Dinosaur) => {
     const currentQuestion = quizState.questions[quizState.currentQuestionIndex]
     const isCorrect = selectedDinosaur.rank === currentQuestion.correctDinosaur.rank
 

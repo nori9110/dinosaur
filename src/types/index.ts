@@ -1,4 +1,4 @@
-export interface DinosaurData {
+export interface Dinosaur {
   rank: number
   name: string
   image_url: string | null
@@ -6,8 +6,8 @@ export interface DinosaurData {
 }
 
 export interface QuizQuestion {
-  correctDinosaur: DinosaurData
-  options: DinosaurData[]
+  correctDinosaur: Dinosaur
+  options: Dinosaur[]
   answered?: boolean
   isCorrect?: boolean
 }

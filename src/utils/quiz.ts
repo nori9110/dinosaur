@@ -1,4 +1,4 @@
-import { DinosaurData, QuizQuestion } from '../types'
+import { Dinosaur, QuizQuestion } from '../types'
 
 export function shuffleArray<T>(array: T[]): T[] {
   const shuffled = [...array]
@@ -9,7 +9,7 @@ export function shuffleArray<T>(array: T[]): T[] {
   return shuffled
 }
 
-export function generateQuizQuestions(dinosaurs: DinosaurData[], questionCount: number = 5): QuizQuestion[] {
+export function generateQuizQuestions(dinosaurs: Dinosaur[], questionCount: number = 5): QuizQuestion[] {
   const shuffledDinosaurs = shuffleArray(dinosaurs)
   const questions: QuizQuestion[] = []
 
